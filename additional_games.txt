@@ -1,0 +1,16 @@
+dataset,day,home_name,vis_name,box_score,summary
+train,11_07_14,Nuggets,Cavaliers,https://watch.nba.com/game/20141107/CLEDEN,https://www.rotowire.com/basketball/game-recap.php?id=1459494
+train,12_12_15,Pistons,Pacers,https://watch.nba.com/game/20151212/INDDET,https://www.rotowire.com/basketball/game-recap.php?id=1571178
+train,12_13_15,Suns,Timberwolves,https://watch.nba.com/game/20151213/MINPHX,https://www.rotowire.com/basketball/game-recap.php?id=1571361
+train,11_09_15,Warriors,Pistons,https://watch.nba.com/game/20151109/DETGSW,https://www.rotowire.com/basketball/game-recap.php?id=1570526
+train,11_01_15,Lakers,Mavericks,https://watch.nba.com/game/20151101/DALLAL,https://www.rotowire.com/basketball/game-recap.php?id=1570821
+train,11_13_15,Grizzlies,Trail Blazers,https://watch.nba.com/game/20151113/PORMEM,https://www.rotowire.com/basketball/game-recap.php?id=1570803
+train,11_06_15,Cavaliers,76ers,https://watch.nba.com/game/20151106/PHICLE,https://www.rotowire.com/basketball/game-recap.php?id=1570508
+train,11_06_15,Knicks,Bucks,https://watch.nba.com/game/20151106/MILNYK,https://www.rotowire.com/basketball/game-recap.php?id=1571392
+train,12_21_15,Bulls,Nets,https://watch.nba.com/game/20151221/BKNCHI,https://www.rotowire.com/basketball/game-recap.php?id=1570456
+valid,11_02_15,Warriors,Grizzlies,https://watch.nba.com/game/20151102/MEMGSW,https://www.rotowire.com/basketball/game-recap.php?id=1570512
+valid,10_31_15,Pacers,Jazz,https://watch.nba.com/game/20151031/UTAIND,https://www.rotowire.com/basketball/game-recap.php?id=1570946
+test,11_01_15,Bulls,Magic,https://watch.nba.com/game/20151101/ORLCHI,https://www.rotowire.com/basketball/game-recap.php?id=1570442
+test,10_31_15,Wizards,Knicks,https://watch.nba.com/game/20151031/NYKWAS,https://www.rotowire.com/basketball/game-recap.php?id=1571308
+test,10_31_15,Grizzlies,Nets,https://watch.nba.com/game/20151031/BKNMEM,https://www.rotowire.com/basketball/game-recap.php?id=1570790
+
